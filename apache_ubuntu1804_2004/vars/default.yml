@@ -1,0 +1,7 @@
+---
+#app_user must be available in the user of the machine
+app_user: "ronin"
+http_host: "your_domain"
+http_conf: "your_domain.conf"
+http_port: "80"
+disable_default: true
